@@ -11,4 +11,7 @@ public class Demo {
         System.out.println("hello 123");
         System.out.println("hello 456");
     }
+    public void test(){
+        //这是一个方法
+    }
 }
